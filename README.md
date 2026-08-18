@@ -1,15 +1,3 @@
-Here's the complete, verified project — every file laid out so you can copy each one directly into your repo. The code has been run and confirmed working (hoon → 100%, loss 1.37 → 0.0003).
-
-Final structure
-mini-llm-from-scratch/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── .gitignore
-├── 04_full_forward.py
-└── 05_backprop_train.py
-
-📄 README.md
 # Mini-LLM from Scratch
 
 I kept reading that "an LLM is just matrix multiplication" and nodding along without
