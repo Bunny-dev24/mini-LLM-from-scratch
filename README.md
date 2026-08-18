@@ -1,5 +1,3 @@
-Great call — GitHub renders Mermaid diagrams natively, so I've added those (they show up as real diagrams, not code). I also fixed the leftover bugs I spotted in your paste: two stray p_hoon mentions, a missing colon in the Final: dict, and the mangled __init__ / __name__ in the code. Here's the complete upgraded README:
-
 # 🧩 Mini-LLM from Scratch
 
 > A language model so small you can check every number by hand.
