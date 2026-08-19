@@ -1,5 +1,5 @@
 # 🧩 Mini-LLM from Scratch
-> 📖 I wrote about how I built this, step by step, on Medium: [I Built the World's Smallest LLM to Prove "It's Just Matrix Multiplication"](https://medium.com/@Yash_Bhardwaj)
+> 📖 I wrote about how I built this, step by step, on Medium: [I Built the World's Smallest LLM to Prove "It's Just Matrix Multiplication"](https://medium.com/@Yash_Bhardwaj/how-i-built-the-smallest-llm-from-scratch-to-understand-matrix-multiplication-0572a2930989)
 
 > A language model so small you can check every number by hand.
 
